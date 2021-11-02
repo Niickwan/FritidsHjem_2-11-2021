@@ -1,0 +1,11 @@
+FAKTURA
+---------------------------------------
+Dit køb:
+20 stk maelk a 10.5 kr stykket = Uden rabat: 210.0 Med Rabat: 178.5
+7 stk smoer a 15.75 kr stykket = Uden rabat: 110.25
+12 stk franskbroed a 25.0 kr stykket = Uden rabat: 300.0 Med Rabat: 255.0
+8 stk rugbroed a 17.75 kr stykket = Uden rabat: 142.0
+18 stk yoghurt a 12.25 kr stykket = Uden rabat: 220.5 Med Rabat: 187.42499999999998
+---------------------------------------
+Tak for dit køb!
+---------------------------------------
